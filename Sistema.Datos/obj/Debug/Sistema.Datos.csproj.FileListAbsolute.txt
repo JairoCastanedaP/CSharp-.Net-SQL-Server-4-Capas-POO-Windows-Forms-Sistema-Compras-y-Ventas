@@ -1,0 +1,9 @@
+C:\Users\ENVYX360\Desktop\LocalFiles\csharp\ProyectoCS\Sistema\Sistema.Datos\bin\Debug\Sistema.Datos.dll
+C:\Users\ENVYX360\Desktop\LocalFiles\csharp\ProyectoCS\Sistema\Sistema.Datos\bin\Debug\Sistema.Datos.pdb
+C:\Users\ENVYX360\Desktop\LocalFiles\csharp\ProyectoCS\Sistema\Sistema.Datos\bin\Debug\Sistema.Entidades.dll
+C:\Users\ENVYX360\Desktop\LocalFiles\csharp\ProyectoCS\Sistema\Sistema.Datos\bin\Debug\Sistema.Entidades.pdb
+C:\Users\ENVYX360\Desktop\LocalFiles\csharp\ProyectoCS\Sistema\Sistema.Datos\obj\Debug\Sistema.Datos.csprojAssemblyReference.cache
+C:\Users\ENVYX360\Desktop\LocalFiles\csharp\ProyectoCS\Sistema\Sistema.Datos\obj\Debug\Sistema.Datos.csproj.CoreCompileInputs.cache
+C:\Users\ENVYX360\Desktop\LocalFiles\csharp\ProyectoCS\Sistema\Sistema.Datos\obj\Debug\Sistema.Datos.csproj.CopyComplete
+C:\Users\ENVYX360\Desktop\LocalFiles\csharp\ProyectoCS\Sistema\Sistema.Datos\obj\Debug\Sistema.Datos.dll
+C:\Users\ENVYX360\Desktop\LocalFiles\csharp\ProyectoCS\Sistema\Sistema.Datos\obj\Debug\Sistema.Datos.pdb

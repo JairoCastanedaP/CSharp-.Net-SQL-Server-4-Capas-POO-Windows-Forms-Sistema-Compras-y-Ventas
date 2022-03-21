@@ -1,0 +1,5 @@
+C:\Users\ENVYX360\Desktop\LocalFiles\csharp\ProyectoCS\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csprojAssemblyReference.cache
+C:\Users\ENVYX360\Desktop\LocalFiles\csharp\ProyectoCS\Sistema\Sistema.Presentacion\obj\Debug\MainWindow.g.cs
+C:\Users\ENVYX360\Desktop\LocalFiles\csharp\ProyectoCS\Sistema\Sistema.Presentacion\obj\Debug\App.g.cs
+C:\Users\ENVYX360\Desktop\LocalFiles\csharp\ProyectoCS\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion_MarkupCompile.cache
+C:\Users\ENVYX360\Desktop\LocalFiles\csharp\ProyectoCS\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion_MarkupCompile.lref

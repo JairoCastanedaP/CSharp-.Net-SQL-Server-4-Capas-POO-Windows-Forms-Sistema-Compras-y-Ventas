@@ -1,0 +1,6 @@
+C:\Users\ENVYX360\Desktop\LocalFiles\csharp\ProyectoCS\Sistema\Sistema.Entidades\bin\Debug\Sistema.Entidades.dll
+C:\Users\ENVYX360\Desktop\LocalFiles\csharp\ProyectoCS\Sistema\Sistema.Entidades\bin\Debug\Sistema.Entidades.pdb
+C:\Users\ENVYX360\Desktop\LocalFiles\csharp\ProyectoCS\Sistema\Sistema.Entidades\obj\Debug\Sistema.Entidades.csprojAssemblyReference.cache
+C:\Users\ENVYX360\Desktop\LocalFiles\csharp\ProyectoCS\Sistema\Sistema.Entidades\obj\Debug\Sistema.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\ENVYX360\Desktop\LocalFiles\csharp\ProyectoCS\Sistema\Sistema.Entidades\obj\Debug\Sistema.Entidades.dll
+C:\Users\ENVYX360\Desktop\LocalFiles\csharp\ProyectoCS\Sistema\Sistema.Entidades\obj\Debug\Sistema.Entidades.pdb
